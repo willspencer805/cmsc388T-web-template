@@ -28,4 +28,4 @@ jobs:
             cd ..
             cd pub/
             unalias rm
-            rm -rf wspencer.github.io/
+            rm -rf willspencer805.github.io/

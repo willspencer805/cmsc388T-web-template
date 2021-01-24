@@ -26,4 +26,4 @@ jobs:
           port: ${{ secrets.PORT }}
           script: |
             cd ../pub/
-            git clone https://github.com/willspencer805/wspencer.github.io.git
+            git clone https://github.com/willspencer805/willspencer805.github.io.git
