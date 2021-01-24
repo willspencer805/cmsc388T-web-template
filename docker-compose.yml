@@ -3,6 +3,11 @@ version: '3'
 services:
   nodejs:
     #fill out the configuration here
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: wspencer
+    container_name: wspencer
     networks:
       - app-network
   
