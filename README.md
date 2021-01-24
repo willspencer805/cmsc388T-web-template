@@ -8,4 +8,4 @@ I also decided to add a picture of my dog because he is a very good boy.
 Here is the [link](https://www.terpconnect.umd.edu/~wspencer/wspencer.github.io/) to my site on TerpConnect
 
 # GitHub
-Here is the link to my site on GitHub pages: willspencer805.github.io
+Here is the link to my site on GitHub pages: [willspencer805.github.io]
