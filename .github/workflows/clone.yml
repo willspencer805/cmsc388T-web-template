@@ -25,5 +25,6 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: |
-            cd ../pub/
+            cd ..
+            cd pub/
             git clone https://github.com/willspencer805/willspencer805.github.io.git
